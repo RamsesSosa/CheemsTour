@@ -38,6 +38,7 @@ android {
 dependencies {
     implementation(libs.retrofit)
     implementation(libs.gson.converter)
+    implementation(libs.google.maps)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
